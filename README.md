@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a UI/UX Designer studying Computer Science at Minerva University in San Francisco <3
 
 <!--
 **riadumitrescu/riadumitrescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
