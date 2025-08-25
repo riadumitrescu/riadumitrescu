@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a UI/UX Designer studying Computer Science and Business at Minerva University in San Francisco <3
+I'm a AI Product Designer studying Computer Science and Business at Minerva University in San Francisco <3
 
 <!--
 **riadumitrescu/riadumitrescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
