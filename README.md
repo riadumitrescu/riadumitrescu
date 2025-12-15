@@ -22,5 +22,5 @@ https://www.nuuko.app/
 
 ### 🔗 Find me
 🌐 https://mariadumitrescu.com  
-💼 https://www.linkedin.com/in/mariadumitrescu  
-🎥 https://www.youtube.com/@riadms
+💼 https://www.linkedin.com/in/mariadumitrescu_sf  
+🎥 https://www.youtube.com/@ria_dms
