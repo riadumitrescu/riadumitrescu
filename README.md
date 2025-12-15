@@ -18,7 +18,7 @@ I care about clarity, emotional intelligence, and systems that feel considered r
 ### 🌙 Project
 **Nuuko**  
 Emotion-first journaling with on-device AI  
-https://github.com/riadumitrescu/nuuko  
+https://github.com/riadumitrescu/nuuko-v1  
 
 ### 🔗 Find me
 🌐 https://mariadumitrescu.com  
