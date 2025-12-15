@@ -21,6 +21,6 @@ Emotion-first journaling with on-device AI
 https://www.nuuko.app/
 
 ### 🔗 Find me
-🌐 https://mariadumitrescu.com  
-💼 https://www.linkedin.com/in/mariadumitrescu_sf  
-🎥 https://www.youtube.com/@ria_dms
+🌐 [Portfolio](https://mariadumitrescu.com) 
+💼 [Linkedin](https://www.linkedin.com/in/mariadumitrescu_sf)
+🎥 [Youtube](https://www.youtube.com/@ria-dms/videos)
