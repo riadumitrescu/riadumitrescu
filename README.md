@@ -1,6 +1,6 @@
 ## Hi, I’m Maria 👋
 
-I’m an **AI product designer** studying **Computer Science and Business** at **Minerva University**.  
+I’m an **AI product designer** studying **Computer Science and Design** at **Minerva University**.  
 I build products at the intersection of **design, machine learning, and human behavior**.
 
 I care about clarity, emotional intelligence, and systems that feel considered rather than loud.
